@@ -1,6 +1,6 @@
 ---
 title: "Lab 5"
-author: "Jeff Gau"
+author: "Dr. Jeff Gau"
 date: "October 21, 2019"
 output: html_document
 ---
